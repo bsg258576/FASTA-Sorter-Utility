@@ -24,4 +24,4 @@ No installation is required. You only need to have Python 3.12.0 or later instal
 To use the script, run the following command from your terminal:
 
 ```bash
-python3 R11896961_assignment_1.py -i <input_file> -o <output_file>
+python3 <file_name>.py -i <input_file> -o <output_file>
